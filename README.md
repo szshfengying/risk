@@ -12,11 +12,5 @@
 
 QQ/微信： 1758055196（备注来意）
 
-系统架构
-
-https://images.gitee.com/uploads/images/2020/0604/073605_1e454fe1_5485705.png
-
-系统截图
-https://images.gitee.com/uploads/images/2020/0604/073718_8973127d_5485705.png
-https://images.gitee.com/uploads/images/2020/0604/073755_cb9e7b85_5485705.png
-https://images.gitee.com/uploads/images/2020/0604/073837_36d00bf7_5485705.png
+系统架构&系统截图：
+https://gitee.com/fdche/risk
